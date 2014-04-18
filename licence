@@ -1,0 +1,5 @@
+this is my first write to remember my understand of git
+it has a stage that can store temp files that have 
+git add filepath
+but not 
+git commit -m ''
