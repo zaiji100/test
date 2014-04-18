@@ -1,3 +1,5 @@
 this is my git test file
 git is a easy use version control system
-why do this as ^
+why do this as
+git save the modify or update of the file 
+but not the file itself
