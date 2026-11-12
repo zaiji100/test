@@ -1,0 +1,22 @@
+{
+ "u522B.png": {
+  "char": "别",
+  "source": "sample/sample.jpg"
+ },
+ "u5ACC.png": {
+  "char": "嫌",
+  "source": "sample/sample.jpg"
+ },
+ "u5F03.png": {
+  "char": "弃",
+  "source": "sample/sample.jpg"
+ },
+ "u9EBB.png": {
+  "char": "麻",
+  "source": "sample/sample.jpg"
+ },
+ "u70E6.png": {
+  "char": "烦",
+  "source": "sample/sample.jpg"
+ }
+}
